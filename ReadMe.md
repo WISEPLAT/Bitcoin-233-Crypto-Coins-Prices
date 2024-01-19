@@ -3,6 +3,8 @@ Bitcoin, Ethereum, Tether, Binance Coin, XRP, Cradano, Ripple, Dogecoin and more
 
 ### ~7 Gb of market data for you and your analysis with NN or other methods 
 
+Here is the link to kaggle dataset [Bitcoin +233 Crypto Coins Prices](https://www.kaggle.com/datasets/olegshpagin/crypto-coins-prices-ohlcv) (weekly updates)
+
 #### 1638 CSV files for W1, D1, H4, H1, M30, M15 and M5 timeframes
 
 ``` 
